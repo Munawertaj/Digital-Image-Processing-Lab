@@ -1,0 +1,10 @@
+*.cph
+*.bin
+*.vscode
+*.exe
+test
+test.cpp
+*.txt
+*.class
+**/*.class
+
