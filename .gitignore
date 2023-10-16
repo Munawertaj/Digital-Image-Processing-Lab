@@ -1,10 +1,9 @@
-*.cph
-*.bin
-*.vscode
-*.exe
-test
-test.cpp
-*.txt
-*.class
+**/*.cph
+**/*.bin
+**/*.vscode
+**/*.exe
+**/test
+**/test.cpp
+**/*.txt
 **/*.class
 
